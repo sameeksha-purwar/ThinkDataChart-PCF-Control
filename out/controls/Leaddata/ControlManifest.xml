@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<manifest>
+  <control namespace="ThinkChartData" constructor="ThinkChartData" version="0.0.1" display-name-key="ThinkChartData" description-key="ThinkChartData_description" control-type="standard" api-version="1.3.5">
+    <data-set name="smartGridDataSet" display-name-key="Dataset_Display_Key" cds-data-set-options=" displayCommandBar:true;displayViewSelector:false;displayQuickFind:false"/>
+    <property name="chartType" display-name-key="Chart Type" description-key="Type of Chart (pie, radar, bar, line, polar)" of-type="Enum" usage="input" required="true">
+      <value name="radar" display-name-key="Radar" description-key="Radar Chart">radar</value>
+      <value name="bar" display-name-key="Bar" description-key="Bar Chart">bar</value>
+      <value name="pie" display-name-key="Pie" description-key="Pie Chart">pie</value>
+      <value name="line" display-name-key="Line" description-key="Line Chart">line</value>
+      <value name="doughnut" display-name-key="Doughnut" description-key="Doughnut Chart">doughnut</value>
+    </property>
+    <property name="chartTitle" display-name-key="Chart_Title" description-key="The_title_of_the_chart" of-type="SingleLine.Text" usage="input"/>
+    <property name="value" display-name-key="Logical_name_optionset" description-key="Logical_name_optionset" of-type="SingleLine.Text" usage="input" required="true"/>
+    <resources>
+      <code path="bundle.js" order="1"/>
+      <css path="css/LeadData.css" order="1"/>
+    </resources>
+    <built-by name="pac" version="1.25.5"/>
+  </control>
+</manifest>

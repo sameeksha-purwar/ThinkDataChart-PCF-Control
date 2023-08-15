@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GBs6QWjAft0Q9Fv4AlKNi/nWtsWQseIAWjefFwMosY0PnY4mFvQi9hH7W2aqxORjMkdLN9NqrbserPchj2MasQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sameekshap\\Desktop\\pcf control\\lead\\ThinkChartData\\ThinkChartData.cdsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sameekshap\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\sameekshap\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\sameekshap\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.25.5\\microsoft.powerapps.msbuild.pcf.1.25.5.nupkg.sha512",
+    "C:\\Users\\sameekshap\\.nuget\\packages\\microsoft.powerapps.msbuild.solution\\1.25.5\\microsoft.powerapps.msbuild.solution.1.25.5.nupkg.sha512"
+  ],
+  "logs": []
+}

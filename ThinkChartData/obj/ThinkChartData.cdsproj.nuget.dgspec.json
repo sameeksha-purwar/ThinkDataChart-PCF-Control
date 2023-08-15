@@ -1,0 +1,100 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sameekshap\\Desktop\\pcf control\\lead\\ThinkChartData\\ThinkChartData.cdsproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sameekshap\\Desktop\\pcf control\\lead\\lead.pcfproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sameekshap\\Desktop\\pcf control\\lead\\lead.pcfproj",
+        "projectName": "lead",
+        "projectPath": "C:\\Users\\sameekshap\\Desktop\\pcf control\\lead\\lead.pcfproj",
+        "packagesPath": "C:\\Users\\sameekshap\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sameekshap\\Desktop\\pcf control\\lead\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sameekshap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.PowerApps.MSBuild.Pcf": {
+              "target": "Package",
+              "version": "[1.*, )"
+            }
+          }
+        }
+      }
+    },
+    "C:\\Users\\sameekshap\\Desktop\\pcf control\\lead\\ThinkChartData\\ThinkChartData.cdsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sameekshap\\Desktop\\pcf control\\lead\\ThinkChartData\\ThinkChartData.cdsproj",
+        "projectName": "ThinkChartData",
+        "projectPath": "C:\\Users\\sameekshap\\Desktop\\pcf control\\lead\\ThinkChartData\\ThinkChartData.cdsproj",
+        "packagesPath": "C:\\Users\\sameekshap\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sameekshap\\Desktop\\pcf control\\lead\\ThinkChartData\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sameekshap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {
+              "C:\\Users\\sameekshap\\Desktop\\pcf control\\lead\\lead.pcfproj": {
+                "projectPath": "C:\\Users\\sameekshap\\Desktop\\pcf control\\lead\\lead.pcfproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.PowerApps.MSBuild.Solution": {
+              "target": "Package",
+              "version": "[1.*, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

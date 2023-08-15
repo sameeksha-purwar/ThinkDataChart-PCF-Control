@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gn+lm+nJtM7QXjp1tgK82uoyA/XQ0U//JVyB70ldwis9gB8Zhi+kfEGm53SwEwDfolPf0DLpXwAX4MSDx9eo3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sameekshap\\Desktop\\pcf control\\lead\\lead.pcfproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sameekshap\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\sameekshap\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\sameekshap\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.25.5\\microsoft.powerapps.msbuild.pcf.1.25.5.nupkg.sha512"
+  ],
+  "logs": []
+}
